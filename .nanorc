@@ -3,3 +3,4 @@ set tabsize 2
 set tabstospaces
 set autoindent
 set mouse
+set const
