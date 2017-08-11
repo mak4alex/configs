@@ -1,4 +1,7 @@
+include /usr/share/nano/sh.nanorc
 include /usr/share/nano/ruby.nanorc
+include /usr/share/nano/python.nanorc
+include /usr/share/nano/xml.nanorc
 set tabsize 2
 set tabstospaces
 set autoindent
